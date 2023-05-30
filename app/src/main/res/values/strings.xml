@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Квиз</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="splash_fragment_label">Quiz Fragment</string>
+    <string name="start_fragment_label">Start Fragment</string>
+    <string name="select_difficulty_fragment_label">Select Difficulty Fragment</string>
+    <string name="quiz_fragment_label">Quiz Fragment</string>
+    <string name="result_fragment_label">Result Fragment</string>
+    <string name="shop_fragment_label">Shop Fragment</string>
+
+    <string name="quiz">КВИЗ</string>
+    <string name="infoText">Тренируй свои мозги вместе с нами!</string>
+    <string name="button_start">Старт</string>
+    <string name="text_select_difficulty">Выбери уровень сложности квиза:</string>
+    <string name="easy">лёгкий</string>
+    <string name="medium">средний</string>
+    <string name="hard">тяжёлый</string>
+    <string name="difficult">Сложность: %1$s</string>
+    <string name="count_question">%1$s/10</string>
+    <string name="finish">финиш</string>
+    <string name="your_result">Твой Результат:</string>
+    <string name="shop">магазин</string>
+    <string name="back">назад</string>
+    <string name="next">Далее</string>
+    <string name="result">Результат</string>
+    <string name="correct_answer">Правильный ответ:\n%1$s</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_screen"
+    tools:context="com.pechenegmobilecompanyltd.quizproject.ui.StartFragment">
+
+    <TextView
+        android:id="@+id/image_start"
+        android:layout_width="match_parent"
+        android:layout_height="369dp"
+        android:background="@drawable/icon_welcome_picture"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/montserrat_font"
+        android:gravity="center|top"
+        android:text="@string/quiz"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_start" />
+
+    <TextView
+        android:id="@+id/text_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/montserrat_font"
+        android:text="@string/infoText"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/button_start"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_name"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/button_start"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginBottom="75dp"
+        android:background="@drawable/custom_ripple_effect"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="@font/montserrat_font"
+        android:gravity="center"
+        android:text="@string/button_start"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_start"
+        app:layout_constraintVertical_bias="0.379" />
+
+    <TextView
+        android:id="@+id/button_shop"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="75dp"
+        android:background="@drawable/custom_ripple_effect"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/montserrat_font"
+        android:gravity="center"
+        android:text="@string/shop"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_start"
+        app:layout_constraintVertical_bias="0.379" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
