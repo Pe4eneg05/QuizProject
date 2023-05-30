@@ -1,0 +1,8 @@
+![1](https://github.com/Pe4eneg05/QuizProject/assets/125829710/3ad3ab1f-05e1-4f2d-aeae-fffb533e8211)
+![2](https://github.com/Pe4eneg05/QuizProject/assets/125829710/43d14058-ecbc-4437-833f-953c32d924e9)
+![3](https://github.com/Pe4eneg05/QuizProject/assets/125829710/eb45ef1a-8b2e-4eb0-868f-59e95d67f093)
+![4](https://github.com/Pe4eneg05/QuizProject/assets/125829710/a5de4e3d-0cba-4697-96ae-37f090825b84)
+![5](https://github.com/Pe4eneg05/QuizProject/assets/125829710/1d3855d3-f9ed-444b-84f8-33187049bd49)
+![6](https://github.com/Pe4eneg05/QuizProject/assets/125829710/5bd7cf79-ff73-4ad5-81dd-aaaca8accc89)
+![7](https://github.com/Pe4eneg05/QuizProject/assets/125829710/befc7fcf-39b0-4446-a4e0-f8a293d7e5d7)
+![8](https://github.com/Pe4eneg05/QuizProject/assets/125829710/6fbffc7b-d5bb-47ab-ae46-f43fe089fe83)
